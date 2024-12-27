@@ -1,0 +1,7 @@
+GET http://localhost:8001/flights
+
+###
+GET http://0.0.0.0:8002/inventory/Flight%20A
+
+###
+GET http://localhost:8003/

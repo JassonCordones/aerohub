@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Background -->
+  <rect width="200" height="60" fill="#1E3A8A" rx="10" />
+
+  <!-- Airplane Symbol -->
+  <g transform="translate(20, 15) scale(0.8)">
+    <polygon points="20,0 25,15 40,20 25,25 20,40 15,25 0,20 15,15" fill="#FFD700" />
+    <rect x="15" y="18" width="10" height="4" fill="#1E3A8A" />
+  </g>
+
+  <!-- Aerohub Text -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">
+    Aerohub
+  </text>
+  <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="#FFD700">
+    Your Flight Hub
+  </text>
+</svg>
